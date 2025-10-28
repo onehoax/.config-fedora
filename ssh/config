@@ -1,0 +1,17 @@
+# BitBucket 
+Host bitbucket.org
+  Hostname bitbucket.org
+  AddressFamily inet
+  User git
+  IdentityFile ~/.ssh/bitbucket/id_ed25519_bitbucket
+
+# GitLab 
+Host gitlab.ndgdevelopment.com
+  Hostname gitlab.ndgdevelopment.com
+  Port 2222
+  User git
+  IdentityFile ~/.ssh/gitlab/id_ed25519_gitlab
+
+# Default 
+Host *
+  IdentityFile ~/.ssh/default/id_ed25519
