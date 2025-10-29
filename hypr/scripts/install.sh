@@ -52,3 +52,13 @@ sudo dnf install hyprlauncher hyprpaper hyprlock \
                  hypridle hyprsunset hyprsysteminfo \
                  waybar blueman
 
+
+# =============================== OTHER ===============================
+
+# asdf -> download archive (linux-amd64), extract (tar -xvzf file.tar.gz), move the executable to `~/.local/bin`, follow the official instructions for bash
+# vscode -> add repo and install through dnf
+# dbeaver -> download rpm file and install through dnf
+# slack -> download rpm file and install through dnf
+# purevpn -> snap package (bc can't get into purevpn account to get credentials)
+# awsvpn -> use openvpn cli
+
