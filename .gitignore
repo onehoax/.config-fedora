@@ -1,4 +1,4 @@
-/* 
+/*
 
 !/.gitignore
 !/asdf/
@@ -10,3 +10,6 @@
 !/vim/
 !/waybar/
 !/scripts/
+!/niri/
+!/alacritty
+!/DankMaterialShell

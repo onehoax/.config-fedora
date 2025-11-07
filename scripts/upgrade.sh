@@ -15,7 +15,7 @@ sudo dnf clean all
 flatpak update
 
 # fedora version
-cat /etc/fedora-release
-sudo dnf upgrade --refresh
+#cat /etc/fedora-release
+#sudo dnf upgrade --refresh
 
 
