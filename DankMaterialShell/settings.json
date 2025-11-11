@@ -205,9 +205,9 @@
   "dockGroupByApp": false,
   "dockOpenOnOverview": true,
   "dockPosition": 1,
-  "dockSpacing": 4,
+  "dockSpacing": 5,
   "dockBottomGap": 0,
-  "dockMargin": 0,
+  "dockMargin": 5,
   "dockIconSize": 40,
   "dockIndicatorStyle": "circle",
   "notificationOverlayEnabled": false,
@@ -254,7 +254,7 @@
       "all"
     ],
     "dock": [
-      "HDMI-A-2"
+      "all"
     ],
     "notifications": [
       "HDMI-A-2"
