@@ -1,5 +1,5 @@
 {
-  "currentThemeName": "cyan",
+  "currentThemeName": "blue",
   "customThemeFile": "",
   "matugenScheme": "scheme-tonal-spot",
   "runUserMatugenTemplates": false,
@@ -9,7 +9,6 @@
   "popupTransparency": 1,
   "dockTransparency": 1,
   "widgetBackgroundColor": "sch",
-  "surfaceBase": "s",
   "cornerRadius": 12,
   "use24HourClock": true,
   "showSeconds": false,
@@ -113,10 +112,6 @@
   ],
   "dankBarCenterWidgets": [
     {
-      "id": "music",
-      "enabled": false
-    },
-    {
       "id": "clock",
       "enabled": true
     },
@@ -164,7 +159,7 @@
   "useAutoLocation": false,
   "weatherEnabled": false,
   "networkPreference": "wifi",
-  "vpnLastConnected": "",
+  "vpnLastConnected": "49d51601-0e18-4173-ae24-d3c62f93f10c",
   "iconTheme": "System Default",
   "launcherLogoMode": "dank",
   "launcherLogoCustomPath": "",
@@ -198,6 +193,7 @@
   "batterySuspendTimeout": 1800,
   "batterySuspendBehavior": 0,
   "lockBeforeSuspend": true,
+  "preventIdleForMedia": false,
   "loginctlLockIntegration": true,
   "launchPrefix": "",
   "brightnessDevicePins": {},
@@ -211,6 +207,7 @@
   "dockPosition": 1,
   "dockSpacing": 4,
   "dockBottomGap": 0,
+  "dockMargin": 0,
   "dockIconSize": 40,
   "dockIndicatorStyle": "circle",
   "notificationOverlayEnabled": false,
@@ -224,6 +221,8 @@
   "dankBarSquareCorners": false,
   "dankBarNoBackground": false,
   "dankBarGothCornersEnabled": false,
+  "dankBarGothCornerRadiusOverride": false,
+  "dankBarGothCornerRadiusValue": 12,
   "dankBarBorderEnabled": false,
   "dankBarBorderColor": "surfaceText",
   "dankBarBorderOpacity": 1,
@@ -252,7 +251,7 @@
   "updaterTerminalAdditionalParams": "",
   "screenPreferences": {
     "dankBar": [
-      "HDMI-A-2"
+      "all"
     ],
     "dock": [
       "HDMI-A-2"
